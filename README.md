@@ -20,9 +20,6 @@ I am a passionate software engineer with a keen interest in building robust and 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)](https://skillicons.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)](https://skillicons.dev)
 
-## Projects
-- Showcase some of your notable projects with brief descriptions and links.
-
 ## Let's Connect
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-TahaShabbirLokhandwala-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/tahashabbirlokhandwala/)
 - GitHub: [![GitHub](https://img.shields.io/badge/GitHub-tahashlokhandwala-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/tahashlokhandwala)
