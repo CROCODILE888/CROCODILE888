@@ -65,7 +65,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/CROCODILE888/CROCODILE888/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/CROCODILE888/CROCODILE888/snake.svg" alt="Snake animation" />
 
 ###
 
